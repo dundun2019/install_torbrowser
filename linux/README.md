@@ -9,7 +9,7 @@
 
 4.  重启
 
-5.  双击打开Tor Browser Setup进行配置
+5.  双击打开Tor Browser Setup进行[配置](https://gitee.com/yao2019ss/install_torbrowser/tree/master/windows)
 
 ### 选做
 

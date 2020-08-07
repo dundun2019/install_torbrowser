@@ -1,3 +1,5 @@
+<a href='https://gitee.com/yao2019ss/install_torbrowser'><img src='https://gitee.com/yao2019ss/install_torbrowser/widgets/widget_2.svg' alt='Fork me on Gitee'></img></a>
+
 请切换目录以便阅览
 
 [Windows](https://gitee.com/yao2019ss/install_torbrowser/tree/master/windows)
